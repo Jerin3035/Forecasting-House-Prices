@@ -78,6 +78,3 @@ This project was developed as part of the **Naan Mudhalvan** initiative by:
 - **Lenin M.**
 - **Kannan S.**
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
