@@ -11,7 +11,6 @@ This project focuses on predicting house prices using advanced regression models
 - [Model Evaluation](#model-evaluation)
 - [Google Colab Link](#google-colab-link)
 - [Team Credits](#team-credits)
-- [License](#license)
 
 ## Problem Statement
 
